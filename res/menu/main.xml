@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mybluetoothchat.MainActivity" >
+
+    <item
+        android:id="@+id/connect"
+        android:orderInCategory="1"
+        android:title="连接"/>
+    <item
+        android:id="@+id/ensure_visibly"
+        android:orderInCategory="2"
+        android:title="激活"/>
+ 
+    <item
+        android:id="@+id/exit"
+        android:orderInCategory="4"
+        android:title="退出"/>
+
+</menu>
